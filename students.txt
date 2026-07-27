@@ -1,0 +1,4 @@
+22 | Muhammad Asad | 70
+26 | Umer Zaheer | 88 
+66 | Hammad Ali | 93
+12 | Muhammad Awais | 77
