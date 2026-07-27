@@ -29,13 +29,6 @@ The project demonstrates practical use of C++ file streams (`ofstream`, `ifstrea
 
 > ⚠️ **Note:** All four programs must be run in the **same folder**, since they all read/write the shared `students.txt` file.
 
-## 📋 Sample Record Format
-22  MuhammadAsad    70 |
-26  UmerZaheer      60 |
-45  MuhammadAli     80 |
-66  HammadAli       93 |
-12  MuhammadAwais   77 
-
 ## 📖 Key Concepts Demonstrated
 
 - File stream classes: `ofstream`, `ifstream`, `fstream`
